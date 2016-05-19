@@ -1,5 +1,5 @@
-# haproxy-marathon-bridge
-Dockerfile to build haproxy-marathon-bridge docker image (DEPRECATED)
+# haproxy-marathon-bridge (DEPRECATED)
+Dockerfile to build haproxy-marathon-bridge docker image 
 
 Docs: https://mesosphere.github.io/marathon/docs/service-discovery-load-balancing.html
 
